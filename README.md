@@ -4,9 +4,8 @@
 
 #
 
-<p align="center">Estudante de Ciências da Computação, apaixonada por tecnologia e inovação. No momento, estou aprofundando meus conhecimentos em desenvolvimento front-end, mas com a meta de me tornar uma desenvolvedora full stack. Gosto de resolver problemas e criar soluções eficientes, sempre em busca de aprender mais e contribuir para projetos desafiadores. Acompanhe meus projetos aqui e sinta-se à vontade para contribuir !.
-  
-#
+
+
 
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
