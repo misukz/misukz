@@ -42,21 +42,13 @@
 #
 
 <div style="text-align: center;" align="center">
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=misuzan&show_icons=true&theme=radical"&include_all_commits=true&locale=pt-br" 
-  />
+  
+  <br>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=misuzan&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&theme=radical" alt="GitHub stats">
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=misuzan&theme=radical&layout=compact&langs_count=9" alt="Most Used Languages">
-
+  <a href="https://github.com/mari4souza/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=misuzan&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&border_radius=3&count_private=true&theme=radical" alt="Most Used Languages">
+  </a>
 </div>
 
 
