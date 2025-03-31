@@ -52,7 +52,7 @@
   />
 
 <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=misuzan&theme=radical&layout=compact&langs_count=9" alt="Most Used Languages">
