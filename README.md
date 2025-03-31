@@ -39,17 +39,26 @@
   <img width="8" />
 </div>
 
-
 #
-<div style="text-align: center;" align="center">
-  
-  <br>
-   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=misuzan&hide_title=false&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=radical" alt="GitHub stats">
 
-  <a href="https://github.com/misuzan/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=misuzan&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&show_icons=true&count_private=true&theme=radical" alt="Most Used Languages">
-  </a>
+<div style="text-align: center;" align="center">
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=misuzan&show_icons=true&theme=radical"&include_all_commits=true&locale=pt-br" 
+  />
+
+<img 
+      align="right" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=misuzan&theme=radical&layout=compact&langs_count=9" alt="Most Used Languages">
+
 </div>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misukz/misukz/output/github-contribution-grid-snake-dark.svg">
