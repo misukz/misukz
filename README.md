@@ -41,16 +41,15 @@
 
 #
 
-<div style="text-align: center;" align="center">
+<div align="center">
   
   <br>
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=misukz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=radical" alt="GitHub stats" />
 
-  <a href="https://github.com/misukz/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=misukz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&border_radius=3&theme=radical" alt="Most Used Languages">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=misukz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=6&theme=radical" alt="Top Languages" />
   </a>
 </div>
-
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/misukz/misukz/output/github-contribution-grid-snake-dark.svg">
