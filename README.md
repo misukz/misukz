@@ -44,7 +44,7 @@
 <div style="text-align: center;" align="center">
   
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=misukz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&border_radius=3&theme=radical" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=misukz&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&theme=radical" alt="GitHub stats" />
 
   <a href="https://github.com/misukz/github-readme-stats">
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=misukz&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&border_radius=3&theme=radical" alt="Most Used Languages">
